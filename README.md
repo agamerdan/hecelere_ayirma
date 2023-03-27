@@ -1,2 +1,2 @@
 # hecelere_ayirma
-Balirlenen cumleyi hecelere ayirma
+Belirlenen cumleyi hecelere ayirma
