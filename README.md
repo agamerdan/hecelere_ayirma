@@ -1,2 +1,3 @@
 # hecelere_ayirma
-Belirlenen cumleyi hecelere ayirma
+Belirlenen kelimeyi hecelere ayırma. Murat kelimesi Mu rat olarak gösterebilir
+
